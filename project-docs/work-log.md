@@ -38,7 +38,7 @@ Important fixes:
 
 Current limitation:
 
-- A few recent App Store games have icons but no screenshots from the lookup API. They still appear in the all-games catalog.
+- `Marble Pop` has no current store screenshots because Apple lookup returns no result and tested App Store storefront URLs return 404.
 
 Regeneration command:
 
