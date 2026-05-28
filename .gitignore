@@ -45,5 +45,5 @@ temp/
 
 # Keep portfolio source/data/assets tracked for reproducible GitHub Pages output.
 !portfolio_source.xlsx
-!web/data/**
-!web/assets/**
+!docs/data/**
+!docs/assets/**

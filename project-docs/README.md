@@ -7,12 +7,12 @@ The site presents released and partner game work with store links, icons, screen
 ## Current Structure
 
 - `portfolio_source.xlsx`: Source workbook exported from the shared Google Sheets link.
-- `web/`: Static GitHub Pages-ready website.
-- `web/data/games.json`: Generated structured portfolio data.
-- `web/data/games.js`: Browser-ready version of the same data.
-- `web/assets/games/`: Downloaded app icons and screenshots, grouped by game slug.
-- `web/scripts/build_portfolio_data.py`: Data extraction, metadata fetch, and asset download pipeline.
-- `docs/`: Project documentation for future maintenance tasks.
+- `docs/`: Static GitHub Pages-ready website.
+- `docs/data/games.json`: Generated structured portfolio data.
+- `docs/data/games.js`: Browser-ready version of the same data.
+- `docs/assets/games/`: Downloaded app icons and screenshots, grouped by game slug.
+- `docs/scripts/build_portfolio_data.py`: Data extraction, metadata fetch, and asset download pipeline.
+- `project-docs/`: Project documentation for future maintenance tasks.
 
 ## Delivery Target
 

@@ -15,7 +15,7 @@ import openpyxl
 
 
 ROOT = Path(__file__).resolve().parents[2]
-WEB = ROOT / "web"
+WEB = ROOT / "docs"
 ASSET_ROOT = WEB / "assets" / "games"
 DATA_DIR = WEB / "data"
 SOURCE_WORKBOOK = ROOT / "portfolio_source.xlsx"

@@ -8,7 +8,7 @@ Irem Salk and Eralp Ozer have shipped and contributed to many mobile game projec
 
 ## Featured Project Criteria
 
-Featured projects are selected manually in `FEATURED_NAMES` inside `web/scripts/build_portfolio_data.py`.
+Featured projects are selected manually in `FEATURED_NAMES` inside `docs/scripts/build_portfolio_data.py`.
 
 Current featured list:
 

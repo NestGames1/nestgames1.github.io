@@ -6,11 +6,11 @@ Guidance for Codex agents working in this workspace.
 
 Before making changes, read the project documentation in this order:
 
-1. `docs/README.md`
-2. `docs/site-architecture.md`
-3. `docs/data-source-and-pipeline.md`
-4. `docs/content-strategy.md`
-5. `docs/work-log.md`
+1. `project-docs/README.md`
+2. `project-docs/site-architecture.md`
+3. `project-docs/data-source-and-pipeline.md`
+4. `project-docs/content-strategy.md`
+5. `project-docs/work-log.md`
 
 Use those files as the current source of project context. Update the relevant doc when you make a meaningful change, especially if you alter data extraction, site structure, content strategy, or known limitations.
 
@@ -34,22 +34,22 @@ Current user preference:
 ## Directory Map
 
 - `portfolio_source.xlsx`: Local source workbook exported from Google Sheets.
-- `docs/`: Human and agent-readable project documentation.
-- `web/`: Static website root.
-- `web/index.html`: Page markup.
-- `web/styles.css`: Responsive styling.
-- `web/app.js`: Rendering, search, filtering, dialog behavior.
-- `web/data/games.json`: Generated structured data.
-- `web/data/games.js`: Generated browser runtime data.
-- `web/assets/games/`: Downloaded local icons and screenshots.
-- `web/scripts/build_portfolio_data.py`: Source workbook extraction and asset pipeline.
+- `project-docs/`: Human and agent-readable project documentation.
+- `docs/`: Static GitHub Pages website root.
+- `docs/index.html`: Page markup.
+- `docs/styles.css`: Responsive styling.
+- `docs/app.js`: Rendering, search, filtering, dialog behavior.
+- `docs/data/games.json`: Generated structured data.
+- `docs/data/games.js`: Generated browser runtime data.
+- `docs/assets/games/`: Downloaded local icons and screenshots.
+- `docs/scripts/build_portfolio_data.py`: Source workbook extraction and asset pipeline.
 
 ## Data Pipeline
 
 Run the generator with the bundled Python runtime when possible:
 
 ```powershell
-& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'C:\Pf\web\scripts\build_portfolio_data.py'
+& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'C:\Pf\docs\scripts\build_portfolio_data.py'
 ```
 
 Use `--refresh` only when you intentionally want to redownload existing image assets.
@@ -61,7 +61,7 @@ The pipeline:
 - Fetches App Store metadata through Apple lookup API.
 - Falls back to App Store public page scraping when screenshots are missing.
 - Scrapes Google Play public pages for real gameplay screenshots.
-- Writes both `web/data/games.json` and `web/data/games.js`.
+- Writes both `docs/data/games.json` and `docs/data/games.js`.
 
 Important: preserve the existing-asset fallback behavior in the script. It prevents temporary store API failures or rate limits from wiping already downloaded assets from generated data.
 
@@ -83,18 +83,18 @@ The current in-app browser preview has been served from:
 http://127.0.0.1:8091/
 ```
 
-If that preview server is unavailable, start any simple static server rooted at `web/`. Do not add a build system unless the user explicitly asks for one.
+If that preview server is unavailable, start any simple static server rooted at `docs/`. Do not add a build system unless the user explicitly asks for one.
 
 ## Verification Checklist
 
 After site or data changes:
 
-- Confirm `web/data/games.json` is valid JSON.
+- Confirm `docs/data/games.json` is valid JSON.
 - Run JS syntax checks:
 
 ```powershell
-& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' --check 'C:\Pf\web\app.js'
-& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' --check 'C:\Pf\web\data\games.js'
+& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' --check 'C:\Pf\docs\app.js'
+& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe' --check 'C:\Pf\docs\data\games.js'
 ```
 
 - Check for missing or tiny referenced assets.

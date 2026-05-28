@@ -15,7 +15,7 @@ The site generation currently reads the two person-specific sheets directly and 
 
 ## Normalization Rules
 
-The script `web/scripts/build_portfolio_data.py`:
+The script `docs/scripts/build_portfolio_data.py`:
 
 1. Reads rows from the two source sheets.
 2. Infers platform from store URL when needed.
@@ -24,8 +24,8 @@ The script `web/scripts/build_portfolio_data.py`:
 5. Merges duplicate store entries by platform and store ID.
 6. Adds contributor metadata based on source sheet.
 7. Fetches public store metadata.
-8. Downloads icons and screenshots into `web/assets/games/`.
-9. Writes `web/data/games.json` and `web/data/games.js`.
+8. Downloads icons and screenshots into `docs/assets/games/`.
+9. Writes `docs/data/games.json` and `docs/data/games.js`.
 
 ## Store Metadata Sources
 

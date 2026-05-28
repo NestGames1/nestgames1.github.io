@@ -8,13 +8,13 @@ Actions completed:
 
 1. Downloaded the shared Google Sheets workbook as `portfolio_source.xlsx`.
 2. Inspected workbook sheets and identified the relevant Irem and Eralp source tabs.
-3. Created `docs/` for English project documentation.
-4. Created `web/` for the static GitHub Pages site.
-5. Added `web/scripts/build_portfolio_data.py`.
+3. Created the project documentation folder.
+4. Created the static GitHub Pages site folder.
+5. Added `docs/scripts/build_portfolio_data.py`.
 6. Extracted and normalized 54 unique games from the workbook.
 7. Fetched public store metadata from App Store and Google Play.
-8. Downloaded local game icons and screenshots under `web/assets/games/`.
-9. Generated `web/data/games.json` and `web/data/games.js`.
+8. Downloaded local game icons and screenshots under `docs/assets/games/`.
+9. Generated `docs/data/games.json` and `docs/data/games.js`.
 10. Added the static website files: `index.html`, `styles.css`, and `app.js`.
 11. Started a local static preview server and verified the rendered page with the in-app browser.
 12. Tested featured card rendering, complete catalog rendering, Google Play filtering, search, and project dialog opening/closing.
@@ -34,6 +34,7 @@ Important fixes:
 - Added `.gitignore` for OS/editor cache, local environments, logs, dependency folders, and scratch files while keeping the source workbook, generated data, and local web assets trackable.
 - Added a minimal root `README.md` for public repository display without exposing detailed project notes.
 - Neutralized public-facing documentation language to avoid naming a specific external audience or target.
+- Renamed the website folder from `web/` to `docs/` for GitHub Pages publishing and moved maintenance documentation to `project-docs/`.
 
 Current limitation:
 
@@ -42,7 +43,7 @@ Current limitation:
 Regeneration command:
 
 ```powershell
-& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'C:\Pf\web\scripts\build_portfolio_data.py'
+& 'C:\Users\aLypS\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' 'C:\Pf\docs\scripts\build_portfolio_data.py'
 ```
 
 Use `--refresh` to redownload existing image assets.

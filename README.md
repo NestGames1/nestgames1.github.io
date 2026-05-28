@@ -6,6 +6,5 @@ The site is built as a simple GitHub Pages-ready HTML/CSS/JS project.
 
 ## Structure
 
-- `web/` - Website files
-- `docs/` - Internal project notes
-
+- `docs/` - Website files
+- `project-docs/` - Internal project notes
