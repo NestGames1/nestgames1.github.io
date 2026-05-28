@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Irem Salk & Eralp Ozer - Game Portfolio</title>
+    <meta
+      name="description"
+      content="Mobile game portfolio for publisher collaboration, featuring released and partner projects by Irem Salk and Eralp Ozer."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Portfolio home">
+        <span class="brand-mark">IE</span>
+        <span>Irem Salk & Eralp Ozer</span>
+      </a>
+      <nav class="nav-links" aria-label="Primary navigation">
+        <a href="#library">Library</a>
+        <a href="#team">Team</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="metrics" aria-label="Portfolio metrics">
+        <div class="metric">
+          <strong id="stat-total">54</strong>
+          <span>Listed games</span>
+        </div>
+        <div class="metric">
+          <strong id="stat-years">2023-2026</strong>
+          <span>Release window</span>
+        </div>
+        <div class="metric">
+          <strong id="stat-platforms">2</strong>
+          <span>Store platforms</span>
+        </div>
+        <div class="metric">
+          <strong id="stat-versions">108</strong>
+          <span>Tracked version updates</span>
+        </div>
+      </section>
+
+      <section id="library" class="section-block library" aria-labelledby="library-title">
+        <div class="section-heading library-heading">
+          <div>
+            <p class="eyebrow">Complete catalog</p>
+            <h2 id="library-title">All games</h2>
+          </div>
+          <label class="search-label">
+            <span class="sr-only">Search games</span>
+            <input id="search-input" type="search" placeholder="Search by game, genre, seller">
+          </label>
+        </div>
+        <div id="filter-bar" class="filter-bar" aria-label="Game filters"></div>
+        <div id="library-grid" class="library-grid"></div>
+      </section>
+
+      <section id="team" class="section-block team" aria-labelledby="team-title">
+        <div class="section-heading">
+          <p class="eyebrow">Team roles</p>
+          <h2 id="team-title">Collaboration focus</h2>
+        </div>
+        <div id="team-grid" class="team-grid"></div>
+      </section>
+    </main>
+
+    <dialog id="game-dialog" class="game-dialog" aria-labelledby="dialog-title">
+      <button class="dialog-close" type="button" aria-label="Close project details">x</button>
+      <div id="dialog-content"></div>
+    </dialog>
+
+    <script src="data/games.js"></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>

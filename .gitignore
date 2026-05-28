@@ -1,0 +1,49 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE state
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local server output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node dependencies and build caches
+node_modules/
+.npm/
+.pnpm-store/
+.parcel-cache/
+.vite/
+
+# Temporary and generated scratch files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Keep portfolio source/data/assets tracked for reproducible GitHub Pages output.
+!portfolio_source.xlsx
+!web/data/**
+!web/assets/**

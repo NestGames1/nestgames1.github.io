@@ -1,0 +1,2467 @@
+{
+  "generatedAt": "2026-05-28T12:57:59Z",
+  "sourceWorkbook": "portfolio_source.xlsx",
+  "contributors": [
+    {
+      "name": "Irem Salk",
+      "role": "Game Designer, Level Designer, Ideator",
+      "focus": [
+        "Game design",
+        "Level design",
+        "Ideation"
+      ]
+    },
+    {
+      "name": "Eralp Ozer",
+      "role": "Game Developer",
+      "focus": [
+        "Gameplay development",
+        "Systems",
+        "Mobile implementation"
+      ]
+    }
+  ],
+  "featuredOrder": [
+    "Shopping Jam",
+    "Perfect Pour 3D",
+    "Merge and Spin",
+    "Match Stackers",
+    "Block Quest Jam",
+    "Liquid Links"
+  ],
+  "stats": {
+    "totalGames": 54,
+    "featuredGames": 6,
+    "appStoreGames": 42,
+    "googlePlayGames": 12,
+    "yearRange": "2023-2026",
+    "contributors": [
+      "Eralp Ozer",
+      "Irem Salk"
+    ],
+    "totalVersionCount": 108
+  },
+  "games": [
+    {
+      "name": "Bullet Em All",
+      "slug": "bullet-em-all",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/bullet-em-all/id6465251451",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-10-04",
+      "versionCount": 1,
+      "storeId": "6465251451",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Bullet Em All",
+      "description": "Welcome to \"Bullet Em All\" - the ultimate adrenaline-pumping, color-matching shooter game that takes precision and strategy to a whole new level! Step into the world of \"Bullet Em All\" where you'll become the master...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/bullet-em-all/id6465251451?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.BulletEmAll",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/bullet-em-all/icon.png",
+      "screenshots": [
+        "assets/games/bullet-em-all/screenshot-1.png",
+        "assets/games/bullet-em-all/screenshot-2.jpg",
+        "assets/games/bullet-em-all/screenshot-3.png",
+        "assets/games/bullet-em-all/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Dig 'n Craft!",
+      "slug": "dig-n-craft",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/tr/app/dig-n-craft/id1667314378",
+      "platform": "App Store",
+      "seller": "ADEN GAMES BILISIM TEKNOLOJILERI VE PAZARLAMA LIMITED SIRKETI",
+      "releaseDate": "2023-02-02",
+      "versionCount": 1,
+      "storeId": "1667314378",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Dig 'n Craft!",
+      "description": "Connect Miners to sell point to start, Buy Smelters and connect them with Miners to get more,Buy Constructor and connect them with Smelters to get more and more!",
+      "genres": [
+        "Games",
+        "Casual"
+      ],
+      "storeUrl": "https://apps.apple.com/tr/app/dig-n-craft/id1667314378?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.adengames.digncraft",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/dig-n-craft/icon.png",
+      "screenshots": [
+        "assets/games/dig-n-craft/screenshot-1.png",
+        "assets/games/dig-n-craft/screenshot-2.png",
+        "assets/games/dig-n-craft/screenshot-3.png",
+        "assets/games/dig-n-craft/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Digi Choice",
+      "slug": "digi-choice",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/tr/app/digi-choice/id1672926316",
+      "platform": "App Store",
+      "seller": "ADEN GAMES BILISIM TEKNOLOJILERI VE PAZARLAMA LIMITED SIRKETI",
+      "releaseDate": "2023-03-04",
+      "versionCount": 2,
+      "storeId": "1672926316",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Digi Choice",
+      "description": "Merge digit multipliers, Build your own defense and pass the bosses!",
+      "genres": [
+        "Games",
+        "Casual"
+      ],
+      "storeUrl": "https://apps.apple.com/tr/app/digi-choice/id1672926316?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.adengames.digichoice",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/digi-choice/icon.png",
+      "screenshots": [
+        "assets/games/digi-choice/screenshot-1.png",
+        "assets/games/digi-choice/screenshot-2.png",
+        "assets/games/digi-choice/screenshot-3.png",
+        "assets/games/digi-choice/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Line Up Puzzle",
+      "slug": "line-up-puzzle",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/line-up-puzzle/id6463595631",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-09-25",
+      "versionCount": 2,
+      "storeId": "6463595631",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Line Up Puzzle",
+      "description": "Welcome to Line Up Puzzle, the most engaging and addictive puzzle game in town! Are you ready to put your strategic skills to the test and become the master of queues? Get ready to dive into a world of organized...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/line-up-puzzle/id6463595631?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.LineUpSort",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/line-up-puzzle/icon.png",
+      "screenshots": [
+        "assets/games/line-up-puzzle/screenshot-1.png",
+        "assets/games/line-up-puzzle/screenshot-2.png",
+        "assets/games/line-up-puzzle/screenshot-3.png",
+        "assets/games/line-up-puzzle/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Maze Battle",
+      "slug": "maze-battle",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/maze-battle/id6469769814",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-11-23",
+      "versionCount": 1,
+      "storeId": "6469769814",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Maze Battle!",
+      "description": "Prepare for an epic adventure in Maze Battle! Engage in tactical warfare within intricate mazes, where your strategic prowess is the key to victory. Maneuver your soldiers across the battlefield by swiping, utilizing...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/maze-battle/id6469769814?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.MazeBattle",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/maze-battle/icon.png",
+      "screenshots": [
+        "assets/games/maze-battle/screenshot-1.png",
+        "assets/games/maze-battle/screenshot-2.png",
+        "assets/games/maze-battle/screenshot-3.png",
+        "assets/games/maze-battle/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Merge Pay Puzzle",
+      "slug": "merge-pay-puzzle",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/merge-pay-puzzle/id6470448650",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-11-09",
+      "versionCount": 1,
+      "storeId": "6470448650",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Merge Pay Puzzle",
+      "description": "Welcome to the addictive and engaging world of Merge Pay Puzzle! In this unique and thrilling game, players take on the role of a cashier in a bustling clothing store, where precision and quick thinking are key to...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/merge-pay-puzzle/id6470448650?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.MergePayPuzzle",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/merge-pay-puzzle/icon.png",
+      "screenshots": [
+        "assets/games/merge-pay-puzzle/screenshot-1.png",
+        "assets/games/merge-pay-puzzle/screenshot-2.png",
+        "assets/games/merge-pay-puzzle/screenshot-3.png",
+        "assets/games/merge-pay-puzzle/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Money Cut Run",
+      "slug": "money-cut-run",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/tr/app/money-cut-run/id6446685382",
+      "platform": "App Store",
+      "seller": "ADEN GAMES BILISIM TEKNOLOJILERI VE PAZARLAMA LIMITED SIRKETI",
+      "releaseDate": "2023-04-18",
+      "versionCount": 1,
+      "storeId": "6446685382",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Money Cut Run",
+      "description": "Shoot with money gun. Load and roll money reel. Upgrade the cutting blades and cut'em all.",
+      "genres": [
+        "Games",
+        "Casual",
+        "Simulation"
+      ],
+      "storeUrl": "https://apps.apple.com/tr/app/money-cut-run/id6446685382?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.adengames.moneycutrun",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/money-cut-run/icon.png",
+      "screenshots": [
+        "assets/games/money-cut-run/screenshot-1.png",
+        "assets/games/money-cut-run/screenshot-2.png",
+        "assets/games/money-cut-run/screenshot-3.png",
+        "assets/games/money-cut-run/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Nut Sorting",
+      "slug": "nut-sorting",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/nut-sorting/id6462980664",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-09-05",
+      "versionCount": 1,
+      "storeId": "6462980664",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Nut Sorting",
+      "description": "Welcome to the world of \"Nut Sorting\" – a captivating and innovative puzzle game that will put your brain to the test! Get ready to embark on a unique journey of nut manipulation, where your task is to strategically...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/nut-sorting/id6462980664?uo=4",
+      "rating": 1,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.NutSorting",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/nut-sorting/icon.png",
+      "screenshots": [
+        "assets/games/nut-sorting/screenshot-1.png",
+        "assets/games/nut-sorting/screenshot-2.png",
+        "assets/games/nut-sorting/screenshot-3.png",
+        "assets/games/nut-sorting/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Octo Rush",
+      "slug": "octo-rush",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/octo-rush/id6453879205",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-09-11",
+      "versionCount": 3,
+      "storeId": "6453879205",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Octo Rush!",
+      "description": "Prepare to dive into an exciting underwater world filled with tentacled fun in \"Octo Rush!\" Embark on an enthralling puzzle-solving adventure that will challenge your strategic thinking and keep you hooked for hours....",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/octo-rush/id6453879205?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.OctoRush",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/octo-rush/icon.png",
+      "screenshots": [
+        "assets/games/octo-rush/screenshot-1.png",
+        "assets/games/octo-rush/screenshot-2.png",
+        "assets/games/octo-rush/screenshot-3.png",
+        "assets/games/octo-rush/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Perfect Pour 3D",
+      "slug": "perfect-pour-3d",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/perfect-pour-3d/id6472777526",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-12-12",
+      "versionCount": 5,
+      "storeId": "6472777526",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Perfect Pour 3D",
+      "description": "Pour, match, and clear the glasses! In Perfect Pour, matching drinks disappear and new liquid flows in, creating endless satisfying chain reactions. Can you master the perfect flow and clear every level?",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/perfect-pour-3d/id6472777526?uo=4",
+      "rating": 1,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.CapsuleMatch",
+      "packageId": null,
+      "featured": true,
+      "icon": "assets/games/perfect-pour-3d/icon.png",
+      "screenshots": [
+        "assets/games/perfect-pour-3d/screenshot-1.png",
+        "assets/games/perfect-pour-3d/screenshot-2.png",
+        "assets/games/perfect-pour-3d/screenshot-3.png",
+        "assets/games/perfect-pour-3d/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Pillbox Order",
+      "slug": "pillbox-order",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/pillbox-order/id6451483079",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-07-27",
+      "versionCount": 1,
+      "storeId": "6451483079",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "PillBox Order",
+      "description": "Embark on an exciting and intellectually stimulating adventure with our latest game sensation: \"Pillbox Order!\" This captivating puzzle game challenges players to conquer levels by strategically placing pills of...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/pillbox-order/id6451483079?uo=4",
+      "rating": 1,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.PillBoxOrder",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/pillbox-order/icon.png",
+      "screenshots": [
+        "assets/games/pillbox-order/screenshot-1.jpg",
+        "assets/games/pillbox-order/screenshot-2.jpg",
+        "assets/games/pillbox-order/screenshot-3.jpg",
+        "assets/games/pillbox-order/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Poker Match - Card Puzzles",
+      "slug": "poker-match-card-puzzles",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/poker-match-card-puzzles/id6447312538",
+      "platform": "App Store",
+      "seller": "HCG OYUN VE TEKNOLOJI GIRISIM ANONIM SIRKETI",
+      "releaseDate": "2023-04-25",
+      "versionCount": 1,
+      "storeId": "6447312538",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Poker Match - Card Puzzles",
+      "description": "Put your mind to the test with Poker Match, the addictive puzzle game that challenges you to create the best possible poker hands! With various levels of difficulty and objectives to achieve, every move requires...",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Card"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/poker-match-card-puzzles/id6447312538?uo=4",
+      "rating": 5,
+      "ratingCount": 1,
+      "bundleId": "com.mafiagames.pokermatchpuzzle",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/poker-match-card-puzzles/icon.png",
+      "screenshots": [
+        "assets/games/poker-match-card-puzzles/screenshot-1.png",
+        "assets/games/poker-match-card-puzzles/screenshot-2.png",
+        "assets/games/poker-match-card-puzzles/screenshot-3.png",
+        "assets/games/poker-match-card-puzzles/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Robofacture",
+      "slug": "robofacture",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/tr/app/robofacture/id1670888500",
+      "platform": "App Store",
+      "seller": "ADEN GAMES BILISIM TEKNOLOJILERI VE PAZARLAMA LIMITED SIRKETI",
+      "releaseDate": "2023-02-27",
+      "versionCount": 1,
+      "storeId": "1670888500",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Robofacture",
+      "description": "Start produce by adding arm and cranes, Improve them by merging, Produce new items.",
+      "genres": [
+        "Games",
+        "Casual"
+      ],
+      "storeUrl": "https://apps.apple.com/tr/app/robofacture/id1670888500?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.adengames.robofacture",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/robofacture/icon.png",
+      "screenshots": [
+        "assets/games/robofacture/screenshot-1.png",
+        "assets/games/robofacture/screenshot-2.png",
+        "assets/games/robofacture/screenshot-3.png",
+        "assets/games/robofacture/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Rope Trail",
+      "slug": "rope-trail",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/rope-trail/id6450997747",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-07-09",
+      "versionCount": 2,
+      "storeId": "6450997747",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Rope Trail",
+      "description": "Embark on an exciting journey of mind-bending puzzles and vibrant colors with Rope Trail! Get ready to immerse yourself in a captivating world where your strategic thinking and dexterity will be put to the test. This...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/rope-trail/id6450997747?uo=4",
+      "rating": 3,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.RopeTrail",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/rope-trail/icon.png",
+      "screenshots": [
+        "assets/games/rope-trail/screenshot-1.jpg",
+        "assets/games/rope-trail/screenshot-2.jpg",
+        "assets/games/rope-trail/screenshot-3.jpg",
+        "assets/games/rope-trail/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Shopping Jam",
+      "slug": "shopping-jam",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/shopping-jam/id6468769817",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-10-16",
+      "versionCount": 12,
+      "storeId": "6468769817",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Shopping Jam!",
+      "description": "Welcome to \"Shopping Jam!\" – the thrilling and colorful game that puts your speed and precision to the test in the world of retail! Immerse yourself in the fast-paced excitement of a bustling store where your skills...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/shopping-jam/id6468769817?uo=4",
+      "rating": 2,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.ShoppingJam",
+      "packageId": null,
+      "featured": true,
+      "icon": "assets/games/shopping-jam/icon.png",
+      "screenshots": [
+        "assets/games/shopping-jam/screenshot-1.png",
+        "assets/games/shopping-jam/screenshot-2.png",
+        "assets/games/shopping-jam/screenshot-3.png",
+        "assets/games/shopping-jam/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Sort Bullets",
+      "slug": "sort-bullets",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/sort-bullets/id6450291907",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-07-09",
+      "versionCount": 4,
+      "storeId": "6450291907",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Sort Bullets",
+      "description": "Welcome to \"Sort Bullets,\" the ultimate puzzle game that will test your strategic thinking and color matching skills! In this captivating game, your objective is to tap bullets of the same color into the magazine,...",
+      "genres": [
+        "Games",
+        "Casual",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/sort-bullets/id6450291907?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.SortBullets",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/sort-bullets/icon.png",
+      "screenshots": [
+        "assets/games/sort-bullets/screenshot-1.jpg",
+        "assets/games/sort-bullets/screenshot-2.jpg",
+        "assets/games/sort-bullets/screenshot-3.jpg",
+        "assets/games/sort-bullets/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Sorting Coins",
+      "slug": "sorting-coins",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/tr/app/sorting-coins/id6446400769",
+      "platform": "App Store",
+      "seller": "ADEN GAMES BILISIM TEKNOLOJILERI VE PAZARLAMA LIMITED SIRKETI",
+      "releaseDate": "2023-04-04",
+      "versionCount": 2,
+      "storeId": "6446400769",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Sorting Coins",
+      "description": "Upgrade machines, Sort coins, Collect them and earn more, Tip: Be patient to earn more! More multipliers more wins!",
+      "genres": [
+        "Games",
+        "Casual",
+        "Simulation"
+      ],
+      "storeUrl": "https://apps.apple.com/tr/app/sorting-coins/id6446400769?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.adengames.sortingcoins",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/sorting-coins/icon.png",
+      "screenshots": [
+        "assets/games/sorting-coins/screenshot-1.png",
+        "assets/games/sorting-coins/screenshot-2.png",
+        "assets/games/sorting-coins/screenshot-3.png",
+        "assets/games/sorting-coins/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Stadium Jam",
+      "slug": "stadium-jam",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/stadium-jam/id6469709099",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-11-20",
+      "versionCount": 1,
+      "storeId": "6469709099",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Stadium Jam",
+      "description": "Welcome to Stadium Jam, the ultimate test of your coordination and strategy skills! In this thrilling game, your mission is to navigate the chaotic stadium environment and ensure that each Stickman finds their...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/stadium-jam/id6469709099?uo=4",
+      "rating": 1,
+      "ratingCount": 1,
+      "bundleId": "com.ZinkyGames.StadiumJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/stadium-jam/icon.png",
+      "screenshots": [
+        "assets/games/stadium-jam/screenshot-1.png",
+        "assets/games/stadium-jam/screenshot-2.png",
+        "assets/games/stadium-jam/screenshot-3.png",
+        "assets/games/stadium-jam/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Stick Pix",
+      "slug": "stick-pix",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/stick-pix/id6470352377",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-11-13",
+      "versionCount": 1,
+      "storeId": "6470352377",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Stick Pix",
+      "description": "Welcome to the colorful and captivating world of Stick Pix, where creativity and strategy combine to create a unique gaming experience! In Stick Pix, you'll embark on a journey filled with adorable wax stickmen,...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/stick-pix/id6470352377?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.StickPix",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/stick-pix/icon.png",
+      "screenshots": [
+        "assets/games/stick-pix/screenshot-1.png",
+        "assets/games/stick-pix/screenshot-2.png",
+        "assets/games/stick-pix/screenshot-3.png",
+        "assets/games/stick-pix/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Zipper Sort",
+      "slug": "zipper-sort",
+      "year": 2023,
+      "storeLink": "https://apps.apple.com/us/app/zipper-sort/id6462399641",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2023-09-04",
+      "versionCount": 1,
+      "storeId": "6462399641",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Zipper Sort",
+      "description": "Welcome to the exciting world of \"Zipper Sort\" – the ultimate tactile puzzle game that will test your pattern recognition skills and strategic thinking! Get ready to dive into a world of vibrant colors and intricate...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/zipper-sort/id6462399641?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.ZipperSort",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/zipper-sort/icon.png",
+      "screenshots": [
+        "assets/games/zipper-sort/screenshot-1.png",
+        "assets/games/zipper-sort/screenshot-2.png",
+        "assets/games/zipper-sort/screenshot-3.png",
+        "assets/games/zipper-sort/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Coin Pack",
+      "slug": "coin-pack",
+      "year": 2024,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.coinpack",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2024-11-19",
+      "versionCount": null,
+      "storeId": "com.adengames.coinpack",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Coin Pack",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.coinpack",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.coinpack",
+      "featured": false,
+      "icon": "assets/games/coin-pack/icon.png",
+      "screenshots": [
+        "assets/games/coin-pack/screenshot-1.webp",
+        "assets/games/coin-pack/screenshot-2.webp",
+        "assets/games/coin-pack/screenshot-3.webp",
+        "assets/games/coin-pack/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Coin Pile Stack",
+      "slug": "coin-pile-stack",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/coin-pile-stack/id6504028495",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-06-12",
+      "versionCount": 1,
+      "storeId": "6504028495",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Coin Pile Stack",
+      "description": "Coin Pile Stack, where coins become a blast of fun! Stack, match, and blast through colorful puzzles, creating a spectacular burst when stacking over ten coins.",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/coin-pile-stack/id6504028495?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.CoinPileStack",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/coin-pile-stack/icon.png",
+      "screenshots": [
+        "assets/games/coin-pile-stack/screenshot-1.jpg",
+        "assets/games/coin-pile-stack/screenshot-2.jpg",
+        "assets/games/coin-pile-stack/screenshot-3.jpg",
+        "assets/games/coin-pile-stack/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Domino Jam",
+      "slug": "domino-jam",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/domino-jam/id6504995963",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-07-07",
+      "versionCount": 1,
+      "storeId": "6504995963",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Domino Jam",
+      "description": "Unleash your strategic skills in our domino-themed puzzle game! Match and clear tiles to solve intricate levels without getting stuck. Enjoy endless fun and challenging gameplay in every move!",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/domino-jam/id6504995963?uo=4",
+      "rating": 5,
+      "ratingCount": 1,
+      "bundleId": "com.HolagoGames.DominoJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/domino-jam/icon.png",
+      "screenshots": [
+        "assets/games/domino-jam/screenshot-1.jpg",
+        "assets/games/domino-jam/screenshot-2.jpg",
+        "assets/games/domino-jam/screenshot-3.jpg",
+        "assets/games/domino-jam/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Flow Three",
+      "slug": "flow-three",
+      "year": 2024,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.flowthree",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2024-09-09",
+      "versionCount": null,
+      "storeId": "com.adengames.flowthree",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Flow Three",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.flowthree",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.flowthree",
+      "featured": false,
+      "icon": "assets/games/flow-three/icon.png",
+      "screenshots": [
+        "assets/games/flow-three/screenshot-1.webp",
+        "assets/games/flow-three/screenshot-2.webp",
+        "assets/games/flow-three/screenshot-3.webp",
+        "assets/games/flow-three/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Fold Tangle",
+      "slug": "fold-tangle",
+      "year": 2024,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.foldtangle",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2024-07-26",
+      "versionCount": null,
+      "storeId": "com.adengames.foldtangle",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Fold Tangle",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.foldtangle",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.foldtangle",
+      "featured": false,
+      "icon": "assets/games/fold-tangle/icon.png",
+      "screenshots": [
+        "assets/games/fold-tangle/screenshot-1.webp",
+        "assets/games/fold-tangle/screenshot-2.webp",
+        "assets/games/fold-tangle/screenshot-3.webp",
+        "assets/games/fold-tangle/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Key Match",
+      "slug": "key-match",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/key-match/id6479993582",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-05-17",
+      "versionCount": 1,
+      "storeId": "6479993582",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Key Match!",
+      "description": "Break all the locks by making triple match based on their color and solve challenging and enjoyable puzzles.",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/key-match/id6479993582?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.KeyMatch",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/key-match/icon.png",
+      "screenshots": [
+        "assets/games/key-match/screenshot-1.jpg",
+        "assets/games/key-match/screenshot-2.jpg",
+        "assets/games/key-match/screenshot-3.jpg",
+        "assets/games/key-match/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Letter Jam",
+      "slug": "letter-jam",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/letter-jam/id6477922296",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-03-07",
+      "versionCount": 3,
+      "storeId": "6477922296",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Letter Jam!",
+      "description": "Embark on a brain-teasing journey with a physics-based word challenge! Strategically remove screws to unveil letters and construct words on the bench. Choose screws and letters in a right order to clean the board and...",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Word"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/letter-jam/id6477922296?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.LetterJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/letter-jam/icon.png",
+      "screenshots": [
+        "assets/games/letter-jam/screenshot-1.jpg",
+        "assets/games/letter-jam/screenshot-2.jpg",
+        "assets/games/letter-jam/screenshot-3.jpg",
+        "assets/games/letter-jam/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Mail Rush",
+      "slug": "mail-rush",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/mail-rush/id6503170813",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-06-08",
+      "versionCount": 2,
+      "storeId": "6503170813",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Mail Rush!",
+      "description": "Fold the mails and send them to mail boxes. Match the folded mails and complete the level. Test yourself with this amazing brain teaser!",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/mail-rush/id6503170813?uo=4",
+      "rating": 5,
+      "ratingCount": 1,
+      "bundleId": "com.HolagoGames.MailRush",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/mail-rush/icon.png",
+      "screenshots": [
+        "assets/games/mail-rush/screenshot-1.jpg",
+        "assets/games/mail-rush/screenshot-2.jpg",
+        "assets/games/mail-rush/screenshot-3.jpg",
+        "assets/games/mail-rush/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Merge and Spin",
+      "slug": "merge-and-spin",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/merge-and-spin/id6474232277",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2024-01-02",
+      "versionCount": 4,
+      "storeId": "6474232277",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Merge and Spin",
+      "description": "Welcome to the mesmerizing world of \"Merge and Spin\" – a thrilling and captivating puzzle game that will challenge your mind and dazzle your senses! Immerse yourself in a unique gameplay experience where the gears of...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/merge-and-spin/id6474232277?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.MergeAndSpin",
+      "packageId": null,
+      "featured": true,
+      "icon": "assets/games/merge-and-spin/icon.png",
+      "screenshots": [
+        "assets/games/merge-and-spin/screenshot-1.png",
+        "assets/games/merge-and-spin/screenshot-2.png",
+        "assets/games/merge-and-spin/screenshot-3.png",
+        "assets/games/merge-and-spin/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Office Rush Jam",
+      "slug": "office-rush-jam",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/office-rush-jam/id6476965000",
+      "platform": "App Store",
+      "seller": "ZiNKY OYUN YAZILIM ANONiM SiRKETi",
+      "releaseDate": "2024-02-27",
+      "versionCount": 1,
+      "storeId": "6476965000",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Office Rush Jam",
+      "description": "Welcome to \"Office Rush Jam\" – the ultimate game where stickmen take over the office and play according to their whims! In this chaotic and hilarious game, you'll dive into the bustling world of stickman office life...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/office-rush-jam/id6476965000?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.ZinkyGames.OfficeRushJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/office-rush-jam/icon.png",
+      "screenshots": [
+        "assets/games/office-rush-jam/screenshot-1.png",
+        "assets/games/office-rush-jam/screenshot-2.png",
+        "assets/games/office-rush-jam/screenshot-3.png",
+        "assets/games/office-rush-jam/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Screw Soli",
+      "slug": "screw-soli",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/screw-soli/id6504996010",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-07-27",
+      "versionCount": 1,
+      "storeId": "6504996010",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Screw Soli",
+      "description": "Unscrew, reorder, and solve! Free solitaire cards by collecting them and stack in black-and-white sequences. Clear the board and enjoy endless challenges in every level!",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/screw-soli/id6504996010?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.ScrewSoli",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/screw-soli/icon.png",
+      "screenshots": [
+        "assets/games/screw-soli/screenshot-1.jpg",
+        "assets/games/screw-soli/screenshot-2.jpg",
+        "assets/games/screw-soli/screenshot-3.jpg",
+        "assets/games/screw-soli/screenshot-4.jpg"
+      ]
+    },
+    {
+      "name": "Softy Go",
+      "slug": "softy-go",
+      "year": 2024,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.softygo",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2024-08-13",
+      "versionCount": null,
+      "storeId": "com.adengames.softygo",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Softy Go",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.softygo",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.softygo",
+      "featured": false,
+      "icon": "assets/games/softy-go/icon.jpg",
+      "screenshots": [
+        "assets/games/softy-go/screenshot-1.webp",
+        "assets/games/softy-go/screenshot-2.webp",
+        "assets/games/softy-go/screenshot-3.webp",
+        "assets/games/softy-go/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Trailer Match",
+      "slug": "trailer-match",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/trailer-match/id6590630883",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-09-18",
+      "versionCount": 1,
+      "storeId": "6590630883",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Trailer Match",
+      "description": "Get ready for a thrilling ride! In this high-speed puzzle challenge, you’ll swipe and match cars with their trailers before the clock runs out. Navigate through dynamic levels and follow the lines on the ground to...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/trailer-match/id6590630883?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.TrailerMatch",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/trailer-match/icon.png",
+      "screenshots": [
+        "assets/games/trailer-match/screenshot-1.png",
+        "assets/games/trailer-match/screenshot-2.png",
+        "assets/games/trailer-match/screenshot-3.png",
+        "assets/games/trailer-match/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Trash Mania!",
+      "slug": "trash-mania",
+      "year": 2024,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.trashmania",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2024-12-06",
+      "versionCount": null,
+      "storeId": "com.adengames.trashmania",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Trash Mania!",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.trashmania",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.trashmania",
+      "featured": false,
+      "icon": "assets/games/trash-mania/icon.png",
+      "screenshots": [
+        "assets/games/trash-mania/screenshot-1.webp",
+        "assets/games/trash-mania/screenshot-2.webp",
+        "assets/games/trash-mania/screenshot-3.webp",
+        "assets/games/trash-mania/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Yoga Match",
+      "slug": "yoga-match",
+      "year": 2024,
+      "storeLink": "https://apps.apple.com/us/app/yoga-match/id6566183025",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2024-09-08",
+      "versionCount": 1,
+      "storeId": "6566183025",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Yoga Match",
+      "description": "Get ready to find your zen with Yoga Match! Move yogis onto their mats and guide them to the perfect pose. Align the mats, place the yogis, and watch the they find their inner peace! Complete each level by mastering...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/yoga-match/id6566183025?uo=4",
+      "rating": 0,
+      "ratingCount": 0,
+      "bundleId": "com.HolagoGames.YogaMatch",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/yoga-match/icon.png",
+      "screenshots": [
+        "assets/games/yoga-match/screenshot-1.png",
+        "assets/games/yoga-match/screenshot-2.png",
+        "assets/games/yoga-match/screenshot-3.png",
+        "assets/games/yoga-match/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Baggage Order",
+      "slug": "baggage-order",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/baggage-order/id6751323219",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2025-09-24",
+      "versionCount": 1,
+      "storeId": "6751323219",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Baggage Order",
+      "description": "Tap to sort the luggage! Send conveyors through same-color bags, bounce on mismatches, load the cart targets above and the capacity dock below—clear every bag to win.",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/baggage-order/id6751323219?uo=4",
+      "rating": 4.95238,
+      "ratingCount": 42,
+      "bundleId": "com.HolagoGames.BaggageOrder",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/baggage-order/icon.png",
+      "screenshots": [
+        "assets/games/baggage-order/screenshot-1.png",
+        "assets/games/baggage-order/screenshot-2.png",
+        "assets/games/baggage-order/screenshot-3.png",
+        "assets/games/baggage-order/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Block Quest Jam",
+      "slug": "block-quest-jam",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.blockquestjam",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-08-22",
+      "versionCount": null,
+      "storeId": "com.adengames.blockquestjam",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Block Quest Jam",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.blockquestjam",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.blockquestjam",
+      "featured": true,
+      "icon": "assets/games/block-quest-jam/icon.png",
+      "screenshots": [
+        "assets/games/block-quest-jam/screenshot-1.webp",
+        "assets/games/block-quest-jam/screenshot-2.webp",
+        "assets/games/block-quest-jam/screenshot-3.webp",
+        "assets/games/block-quest-jam/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Carve Factory!",
+      "slug": "carve-factory",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.carvefactory",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-09-19",
+      "versionCount": null,
+      "storeId": "com.adengames.carvefactory",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Carve Factory!",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.carvefactory",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.carvefactory",
+      "featured": false,
+      "icon": "assets/games/carve-factory/icon.png",
+      "screenshots": [
+        "assets/games/carve-factory/screenshot-1.webp",
+        "assets/games/carve-factory/screenshot-2.webp",
+        "assets/games/carve-factory/screenshot-3.webp",
+        "assets/games/carve-factory/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Color Rush Mania",
+      "slug": "color-rush-mania",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.colorrushmania",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-02-07",
+      "versionCount": null,
+      "storeId": "com.adengames.colorrushmania",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Color Rush Mania",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.colorrushmania",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.colorrushmania",
+      "featured": false,
+      "icon": "assets/games/color-rush-mania/icon.png",
+      "screenshots": [
+        "assets/games/color-rush-mania/screenshot-1.webp",
+        "assets/games/color-rush-mania/screenshot-2.webp",
+        "assets/games/color-rush-mania/screenshot-3.webp",
+        "assets/games/color-rush-mania/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Color Shape Jam",
+      "slug": "color-shape-jam",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/color-shape-jam/id6749230472",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2025-09-03",
+      "versionCount": 3,
+      "storeId": "6749230472",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Color Shape Jam",
+      "description": "Tap, match, and paint the stack! Triple-match pencils below to color the topmost plate, clear the layer, and unlock the next shape in a smooth, satisfying flow.",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/color-shape-jam/id6749230472?uo=4",
+      "rating": 4.75,
+      "ratingCount": 8,
+      "bundleId": "com.HolagoGames.ColorShapeJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/color-shape-jam/icon.png",
+      "screenshots": [
+        "assets/games/color-shape-jam/screenshot-1.png",
+        "assets/games/color-shape-jam/screenshot-2.png",
+        "assets/games/color-shape-jam/screenshot-3.png",
+        "assets/games/color-shape-jam/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Cup Loop",
+      "slug": "cup-loop",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/cup-loop/id6751527486",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2025-11-20",
+      "versionCount": 1,
+      "storeId": "6751527486",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Cup Loop",
+      "description": "Tap, launch, and fill the cups! Activate color gates to shoot matching cups from the conveyor into their docks. Fill each faucet’s capacity, swap colors, and clear every cup in this fast, satisfying flow!",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/cup-loop/id6751527486?uo=4",
+      "rating": 4,
+      "ratingCount": 7,
+      "bundleId": "com.HolagoGames.CupLoop",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/cup-loop/icon.png",
+      "screenshots": [
+        "assets/games/cup-loop/screenshot-1.png",
+        "assets/games/cup-loop/screenshot-2.png",
+        "assets/games/cup-loop/screenshot-3.png",
+        "assets/games/cup-loop/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Drop Jam",
+      "slug": "drop-jam",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/drop-jam/id6753740540",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2025-10-13",
+      "versionCount": 1,
+      "storeId": "6753740540",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Drop Jam",
+      "description": "Drag, match, and drop the crowd! Guide colorful stickmen through maze-like grids to their matching color zones. Fill each area, clear the board, and watch the crowd flow in perfect harmony!",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/drop-jam/id6753740540?uo=4",
+      "rating": 4.78946,
+      "ratingCount": 38,
+      "bundleId": "com.HolagoGames.DropJam",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/drop-jam/icon.png",
+      "screenshots": [
+        "assets/games/drop-jam/screenshot-1.png",
+        "assets/games/drop-jam/screenshot-2.png",
+        "assets/games/drop-jam/screenshot-3.png",
+        "assets/games/drop-jam/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Garden Organize",
+      "slug": "garden-organize",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/garden-organize/id6756880547",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2025-12-23",
+      "versionCount": 5,
+      "storeId": "6756880547",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Garden Organize",
+      "description": "Create, Arrange, and Send Beautiful Bouquets Combine flowers to form complete bouquets through a carefully designed tap interaction system. Clear the garden by completing each bouquet and progressing through...",
+      "genres": [
+        "Games",
+        "Simulation"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/garden-organize/id6756880547?uo=4",
+      "rating": 4.45205,
+      "ratingCount": 73,
+      "bundleId": "com.HolagoGames.GardenOrganize",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/garden-organize/icon.png",
+      "screenshots": [
+        "assets/games/garden-organize/screenshot-1.png",
+        "assets/games/garden-organize/screenshot-2.png",
+        "assets/games/garden-organize/screenshot-3.png",
+        "assets/games/garden-organize/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Liquid Links",
+      "slug": "liquid-links",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.liquidlinks",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-11-07",
+      "versionCount": null,
+      "storeId": "com.adengames.liquidlinks",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Liquid Links",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.liquidlinks",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.liquidlinks",
+      "featured": true,
+      "icon": "assets/games/liquid-links/icon.png",
+      "screenshots": [
+        "assets/games/liquid-links/screenshot-1.webp",
+        "assets/games/liquid-links/screenshot-2.webp",
+        "assets/games/liquid-links/screenshot-3.webp",
+        "assets/games/liquid-links/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Match Stackers",
+      "slug": "match-stackers",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.matchstackers",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-05-21",
+      "versionCount": null,
+      "storeId": "com.adengames.matchstackers",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Match Stackers",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.matchstackers",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.matchstackers",
+      "featured": true,
+      "icon": "assets/games/match-stackers/icon.png",
+      "screenshots": [
+        "assets/games/match-stackers/screenshot-1.webp",
+        "assets/games/match-stackers/screenshot-2.webp",
+        "assets/games/match-stackers/screenshot-3.webp",
+        "assets/games/match-stackers/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Screw Twist 3D! Unscrew It",
+      "slug": "screw-twist-3d-unscrew-it",
+      "year": 2025,
+      "storeLink": "https://apps.apple.com/us/app/screw-twist-3d-unscrew-it/id6748612311",
+      "platform": "App Store",
+      "seller": "8GREAT GAMES, LLC",
+      "releaseDate": "2025-08-01",
+      "versionCount": 14,
+      "storeId": "6748612311",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Screw Twist 3D! Unscrew It",
+      "description": "Ready for a game that relaxes your mind and challenge your logic? Step into the world of screws and captivating mechanical puzzles! In Screw Twist 3D! Unscrew It, your goal is simple yet satisfying: unscrew every...",
+      "genres": [
+        "Games",
+        "Strategy",
+        "Entertainment",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/screw-twist-3d-unscrew-it/id6748612311?uo=4",
+      "rating": 4.6304,
+      "ratingCount": 671,
+      "bundleId": "com.eightgreatgames.ScrewTap3D",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/screw-twist-3d-unscrew-it/icon.png",
+      "screenshots": [
+        "assets/games/screw-twist-3d-unscrew-it/screenshot-1.png",
+        "assets/games/screw-twist-3d-unscrew-it/screenshot-2.png",
+        "assets/games/screw-twist-3d-unscrew-it/screenshot-3.png",
+        "assets/games/screw-twist-3d-unscrew-it/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Take a Drink",
+      "slug": "take-a-drink",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.takeadrink",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-03-12",
+      "versionCount": null,
+      "storeId": "com.adengames.takeadrink",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Take a Drink",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.takeadrink",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.takeadrink",
+      "featured": false,
+      "icon": "assets/games/take-a-drink/icon.png",
+      "screenshots": [
+        "assets/games/take-a-drink/screenshot-1.webp",
+        "assets/games/take-a-drink/screenshot-2.webp",
+        "assets/games/take-a-drink/screenshot-3.webp",
+        "assets/games/take-a-drink/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Woodsy Block",
+      "slug": "woodsy-block",
+      "year": 2025,
+      "storeLink": "https://play.google.com/store/apps/details?id=com.adengames.woodsyblock",
+      "platform": "Google Play",
+      "seller": "Aden Games",
+      "releaseDate": "2025-04-17",
+      "versionCount": null,
+      "storeId": "com.adengames.woodsyblock",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Google Play Store page",
+      "title": "Woodsy Block",
+      "description": "",
+      "genres": [
+        "Games"
+      ],
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adengames.woodsyblock",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": "com.adengames.woodsyblock",
+      "featured": false,
+      "icon": "assets/games/woodsy-block/icon.png",
+      "screenshots": [
+        "assets/games/woodsy-block/screenshot-1.webp",
+        "assets/games/woodsy-block/screenshot-2.webp",
+        "assets/games/woodsy-block/screenshot-3.webp",
+        "assets/games/woodsy-block/screenshot-4.webp"
+      ]
+    },
+    {
+      "name": "Bead Organize",
+      "slug": "bead-organize",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/bead-organize/id6758987779",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2026-02-11",
+      "versionCount": 10,
+      "storeId": "6758987779",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Bead Organize!",
+      "description": "In each move, you select a stick and remove only the front beads of the same color. The removed beads go upward and are placed into a matching jar when possible, otherwise they are stored in the holding slots below....",
+      "genres": [
+        "Games",
+        "Simulation"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/bead-organize/id6758987779?uo=4",
+      "rating": 4.48193,
+      "ratingCount": 166,
+      "bundleId": "com.HolagoGames.BeadsOrganize",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/bead-organize/icon.png",
+      "screenshots": [
+        "assets/games/bead-organize/screenshot-1.png",
+        "assets/games/bead-organize/screenshot-2.png",
+        "assets/games/bead-organize/screenshot-3.png",
+        "assets/games/bead-organize/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Color Fit Craze",
+      "slug": "color-fit-craze",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/color-fit-craze/id6757922641",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2026-02-23",
+      "versionCount": 5,
+      "storeId": "6757922641",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        },
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer",
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Color Fit Craze",
+      "description": "Colored path pieces are arranged as a maze. Tap a cube from below. If its color matches an active path piece, it starts filling that shape from its round entry point. Completed shapes unlock new starting points. If a...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/color-fit-craze/id6757922641?uo=4",
+      "rating": 4.64957,
+      "ratingCount": 117,
+      "bundleId": "com.HolagoGames.PathCraze",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/color-fit-craze/icon.png",
+      "screenshots": [
+        "assets/games/color-fit-craze/screenshot-1.png",
+        "assets/games/color-fit-craze/screenshot-2.png",
+        "assets/games/color-fit-craze/screenshot-3.png",
+        "assets/games/color-fit-craze/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Lock Tangle",
+      "slug": "lock-tangle",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/lock-tangle/id6758449026",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2026-03-26",
+      "versionCount": 4,
+      "storeId": "6758449026",
+      "contributors": [
+        {
+          "name": "Eralp Ozer",
+          "role": "Game Developer",
+          "focus": [
+            "Gameplay development",
+            "Systems",
+            "Mobile implementation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Eralp Özer - Developer"
+      ],
+      "metadataSource": "Apple iTunes Lookup API",
+      "title": "Lock Tangle",
+      "description": "Keys and locked chests are packed into a tight space. Drag a key through the gaps and place it into a matching slot. Some moves open new space, while others block access for the remaining keys. Each chest unlocks...",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "storeUrl": "https://apps.apple.com/us/app/lock-tangle/id6758449026?uo=4",
+      "rating": 4.4,
+      "ratingCount": 25,
+      "bundleId": "com.holagogames.locktangle",
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/lock-tangle/icon.png",
+      "screenshots": [
+        "assets/games/lock-tangle/screenshot-1.png",
+        "assets/games/lock-tangle/screenshot-2.png",
+        "assets/games/lock-tangle/screenshot-3.png",
+        "assets/games/lock-tangle/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Marble Pop",
+      "slug": "marble-pop",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/marble-pop/id6758199415",
+      "platform": "App Store",
+      "seller": "Can Hulagu",
+      "releaseDate": "2026-02-17",
+      "versionCount": 1,
+      "storeId": "6758199415",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "",
+      "title": "Marble Pop",
+      "description": "",
+      "genres": [],
+      "storeUrl": "https://apps.apple.com/us/app/marble-pop/id6758199415",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": null,
+      "featured": false,
+      "icon": "",
+      "screenshots": []
+    },
+    {
+      "name": "Popper Out",
+      "slug": "popper-out",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/popper-out/id6761062045",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2026-04-10",
+      "versionCount": 1,
+      "storeId": "6761062045",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "",
+      "title": "Popper Out",
+      "description": "",
+      "genres": [],
+      "storeUrl": "https://apps.apple.com/us/app/popper-out/id6761062045",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/popper-out/icon.png",
+      "screenshots": [
+        "assets/games/popper-out/screenshot-1.png",
+        "assets/games/popper-out/screenshot-2.png",
+        "assets/games/popper-out/screenshot-3.png",
+        "assets/games/popper-out/screenshot-4.png"
+      ]
+    },
+    {
+      "name": "Thread Pop",
+      "slug": "thread-pop",
+      "year": 2026,
+      "storeLink": "https://apps.apple.com/us/app/thread-pop/id6759092069",
+      "platform": "App Store",
+      "seller": "HOLAGO BILISIM TEKNOLOJILERI YAZILIM DANISMANLIK TICARET ANONIM SIRKETI",
+      "releaseDate": "2026-02-25",
+      "versionCount": 2,
+      "storeId": "6759092069",
+      "contributors": [
+        {
+          "name": "Irem Salk",
+          "role": "Game Designer, Level Designer, Ideator",
+          "focus": [
+            "Game design",
+            "Level design",
+            "Ideation"
+          ]
+        }
+      ],
+      "sourceSheets": [
+        "Irem Salk-Product"
+      ],
+      "metadataSource": "",
+      "title": "Thread Pop",
+      "description": "",
+      "genres": [],
+      "storeUrl": "https://apps.apple.com/us/app/thread-pop/id6759092069",
+      "rating": null,
+      "ratingCount": null,
+      "bundleId": null,
+      "packageId": null,
+      "featured": false,
+      "icon": "assets/games/thread-pop/icon.png",
+      "screenshots": [
+        "assets/games/thread-pop/screenshot-1.png",
+        "assets/games/thread-pop/screenshot-2.png",
+        "assets/games/thread-pop/screenshot-3.png",
+        "assets/games/thread-pop/screenshot-4.png"
+      ]
+    }
+  ]
+}
