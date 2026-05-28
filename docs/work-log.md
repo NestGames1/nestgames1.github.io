@@ -25,13 +25,15 @@ Important fixes:
 - Changed featured selection to prioritize games with screenshot assets, since some newer App Store lookup responses only return icons.
 - Added a small-image guard so invalid Google Play placeholder assets are not referenced in generated data.
 - Reduced hero typography and spacing after visual verification so the metrics section is visible on desktop.
-- Removed the opening publisher-collaboration hero section after user feedback; the page now starts with the portfolio metrics band.
+- Removed the opening intro section after user feedback; the page now starts with the portfolio metrics band.
 - Removed the featured projects section and featured navigation/filter from the visible UI; all games now appear directly in the main library.
 - Added App Store web-page screenshot fallback for games where the lookup API returns icons but no screenshots.
 - Recovered screenshots for Trailer Match, Baggage Order, Color Shape Jam, Cup Loop, Drop Jam, Garden Organize, Screw Twist 3D! Unscrew It, Bead Organize, Color Fit Craze, Lock Tangle, Popper Out, and Thread Pop.
 - Marble Pop still has no screenshots because its App Store lookup result is empty and the tested public App Store pages return 404.
 - Fixed Google Play screenshot extraction. The first pass had captured icons/feature graphics for Google Play games; the extractor now filters those out and all 12 Google Play games have 4 portrait gameplay screenshots.
 - Added `.gitignore` for OS/editor cache, local environments, logs, dependency folders, and scratch files while keeping the source workbook, generated data, and local web assets trackable.
+- Added a minimal root `README.md` for public repository display without exposing detailed project notes.
+- Neutralized public-facing documentation language to avoid naming a specific external audience or target.
 
 Current limitation:
 

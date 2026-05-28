@@ -18,9 +18,7 @@ The page does not fetch JSON at runtime. It loads `data/games.js`, which assigns
 
 `app.js` renders:
 
-- Hero screenshot collage.
 - Portfolio metrics.
-- Featured project cards.
 - Filterable/searchable complete game catalog.
 - Team role cards.
 - Native `dialog` project detail view.
@@ -34,4 +32,3 @@ No bundler or package manager is required.
 ## Accessibility And Responsiveness
 
 The UI uses semantic sections, keyboard-openable game cards, native dialog, labels for search, and responsive grid layouts. Desktop and mobile layouts are handled in CSS media queries.
-

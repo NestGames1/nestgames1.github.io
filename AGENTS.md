@@ -16,18 +16,18 @@ Use those files as the current source of project context. Update the relevant do
 
 ## Project Purpose
 
-This is a static, publisher-facing mobile game portfolio for Irem Salk and Eralp Ozer.
+This is a static mobile game portfolio website.
 
 Primary goal:
 
 - Show all listed games clearly.
 - Use local store assets where possible.
 - Keep the site GitHub Pages-friendly.
-- Present work in English for publisher collaboration.
+- Present the project catalog clearly in English.
 
 Current user preference:
 
-- No opening hero / publisher intro section.
+- No opening hero / intro section.
 - No visible featured projects section.
 - The page should start with the metrics band, then show the complete game library.
 
@@ -106,6 +106,5 @@ After site or data changes:
 - Prefer small, direct edits.
 - Use local image assets instead of hotlinking store images.
 - Do not remove user-requested UI simplifications unless asked.
-- Do not claim unverified ownership, revenue, performance, or publisher results.
-- Keep copy practical, concise, and publisher-oriented.
-
+- Do not claim unverified ownership, revenue, performance, or external results.
+- Keep copy practical and concise.

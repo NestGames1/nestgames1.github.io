@@ -1,8 +1,8 @@
-# Portfolio Project Overview
+# Project Overview
 
-This workspace contains a static publisher-facing game portfolio for Irem Salk and Eralp Ozer.
+This workspace contains a static mobile game portfolio website.
 
-The portfolio is intended for Homa-style publisher collaboration conversations. It presents released and partner game work, highlights selected projects with screenshots, and keeps the rest of the catalog browsable through filters.
+The site presents released and partner game work with store links, icons, screenshots, and a searchable catalog.
 
 ## Current Structure
 
@@ -12,14 +12,8 @@ The portfolio is intended for Homa-style publisher collaboration conversations. 
 - `web/data/games.js`: Browser-ready version of the same data.
 - `web/assets/games/`: Downloaded app icons and screenshots, grouped by game slug.
 - `web/scripts/build_portfolio_data.py`: Data extraction, metadata fetch, and asset download pipeline.
-- `docs/`: English project documentation for future Codex tasks.
-
-## People And Roles
-
-- Irem Salk: Game Designer, Level Designer, Ideator.
-- Eralp Ozer: Game Developer.
+- `docs/`: Project documentation for future maintenance tasks.
 
 ## Delivery Target
 
 The website is intentionally static. It should work on GitHub Pages without a backend, package install, or build command.
-
